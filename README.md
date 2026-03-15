@@ -53,3 +53,6 @@ Note: Ensure this port is open in your firewall to allow remote access.
 ### IMPORTANT
 A Note on Customization:
 Configuration in UT2004 is highly modular. Most parameters depend heavily on the specific mods, mutators, and game files installed. Each line should be reviewed individually when adding new content to ensure compatibility and stability.
+
+### Extras- UT
+- UTComp v1.8b-k4: https://github.com/aldehir/UTComp/releases/tag/v1.8b-k4
